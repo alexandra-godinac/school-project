@@ -1,0 +1,1 @@
+# quick website project hosted with xampp, done with HTML CSS and PHP for dynamic navigation through pages
